@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<widget id="com.buenastardes" xmlns="http://www.w3.org/ns/widgets" version="0.0.1" versionCode="1" xmlns:gap="http://phonegap.com/ns/1.0">
+<name>cursed minecraft images</name>
+<description> booooob do something! </description>
+<author email="davidvilgar@gmail.com"> David vilches </author>
+<access origin="*"/>
+<plugin name="cordova-plugin-whitelist"/>
+<icon src="icon.png"/>
+</widget>
