@@ -5,5 +5,5 @@
 <author email="davidvilgar@gmail.com"> David vilches </author>
 <access origin="*"/>
 <plugin name="cordova-plugin-whitelist"/>
-<icon src="icon.png"/>
+<icon src="icon.jpg"/>
 </widget>
