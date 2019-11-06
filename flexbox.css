@@ -1,0 +1,19 @@
+.row{
+  display: flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+  justify-content:center;
+  margin:80px ;	
+  border: 5px;
+
+
+
+}
+.col{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items:flex-end;
+  margin:80px ;
+  border: 5px;	
+}
